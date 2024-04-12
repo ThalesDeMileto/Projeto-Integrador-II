@@ -7,9 +7,9 @@ Este projeto faz parte da disciplina de Projeto Integrador II onde estamos abord
 
 # CÚRRICULO BÁSICO
 
-[Thaliel da Silva Xavier]("http://lattes.cnpq.br/8952263597978682")
+[Currículo Lattes]("http://lattes.cnpq.br/8952263597978682")
 
-[Thaliel da Silva Xavier]("www.linkedin.com/in/thaliel-da-silva-xavier-7307052bb")
+[TCurrículo Linkedln]("www.linkedin.com/in/thaliel-da-silva-xavier-7307052bb")
 
 ## DADOS PESSOAIS
 
