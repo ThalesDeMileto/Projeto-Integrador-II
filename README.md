@@ -107,3 +107,15 @@ Coordenado pela servidora Sara dos Santos Medrado SIAPE 1882704,\
 Realizado na SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ,\
 Período: junho a dezembro de 2022.\
 Carga horária: 60h
+
+Participação como Ouvinte na Palestra "PREVENÇÃO DA GRAVIDEZ NA ADOLESCÊNCIA",\
+Coordenado pelo setor saúde da UBS Gezito,\
+Realizado no INSTITUTO FEDERAL DO AMAZONAS - CAMPUS EIRUNEPÉ,\
+Período: 12 de março de 2023.\
+Carga horária: 2h
+
+Participação como Ouvinte no Evento Alusivo "DIA NASCIONAL DOS POVOS INDIGENAS",\
+Coordenado pelo NEABI com apoio do CETI e CASAI,\
+Realizado no INSTITUTO FEDERAL DO AMAZONAS - CAMPUS EIRUNEPÉ,\
+Período: 22 de abril de 2024.\
+Carga horária: 4h
