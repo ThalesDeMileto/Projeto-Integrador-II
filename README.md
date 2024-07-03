@@ -111,7 +111,7 @@ Carga horária: 60h
 Participação como Ouvinte na Palestra "PREVENÇÃO DA GRAVIDEZ NA ADOLESCÊNCIA",\
 Coordenado pelo setor saúde da UBS Gezito,\
 Realizado no INSTITUTO FEDERAL DO AMAZONAS - CAMPUS EIRUNEPÉ,\
-Período: 12 de março de 2023.\
+Período: 12 de março de 2024.\
 Carga horária: 2h
 
 Participação como Ouvinte no Evento Alusivo "DIA NASCIONAL DOS POVOS INDIGENAS",\
