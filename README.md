@@ -34,7 +34,7 @@ Coordenado pelo servidor Manoel Rodrigues da Silva SIAPE 1134263,\
 Realizado na VI Semana de Pesquisa e Extenção do Intituto Federal do Amazonas - Campus Eirunepé,\
 Período: 19 a 22 de outubro de 2022.\
 Carga horária: 3h\
-[Certificado](docs/o_homen....pdf)
+[Certificado](./docs/o_homen....pdf)
 
 Participação como ouvinte na Exposição "As evoluções históricas dos computadores",\
 Coordenado pelo servidor José Augusto Silva SIAPE 3293052,\
