@@ -98,7 +98,8 @@ Carga horária: 4h
 Participação como Ouvinte no Filme "Transcedence - a revolução",\
 Realizado na SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ,\
 Período: 19 outubro de 2023.\
-Carga horária: 2h
+Carga horária: 2h\
+[certificado](https://github.com/ThalesDeMileto/Projeto-Integrador-II/blob/main/trancendente.pdf)
 
 Participação como Ouvinte no Evento "SEMANA DE PESQUISA E EXTENSÃO - IFAM CAMPUS EIRUNEPÉ",\
 Realizado no IFAM - Intituto Federal do Amazonas - Campus Eirunepé,\
