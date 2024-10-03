@@ -138,3 +138,7 @@ Realizado no INSTITUTO FEDERAL DO AMAZONAS - CAMPUS EIRUNEPÉ,\
 Período: 22 de abril de 2024.\
 Carga horária: 4h\
 [Certificado](https://github.com/ThalesDeMileto/Projeto-Integrador-II/blob/ca21e18ef1eda5bd27f3f1a626ac41a69483450d/povosIndigenas.pdf)
+
+## Formulario de Aproveitamento de Atividades
+
+[Formulario](https://github.com/ThalesDeMileto/Projeto-Integrador-II/blob/main/Modelo_-_FORMULRIO_DE_SOLICITAO_E_AVALIAO_DE_APROVEIT._DAS_ATIV._COMPLEM.docx)
